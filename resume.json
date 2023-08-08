@@ -13,7 +13,7 @@
       "postalCode": "no",
       "city": "no",
       "countryCode": "CAN", 
-      "region": "California"
+      "region": "Quebec"
     },
     "profiles": [
       {
@@ -43,27 +43,27 @@
         "Successfully won Techcrunch Disrupt",
         "Optimized an algorithm that holds the current world record for Weisman Scores"
       ]
-    }
-  ],
-  "volunteer": [
+    },
     {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
+      "name": "Reflex Interactions",
+      "location": "Montreal, CAN",
+      "description": "Online streaming tools developper",
+      "position": "Developper",
+      "url": "https://reflexinteractions.com",
       "highlights": [
-        "Awarded 'Teacher of the Month'"
+        "Made and updated multiple microservices",
+        "Implemented a visual help tool using webrtc to help customers having issues with the product",
+        "Implemented more than a third of the UI elements in the final product",
+        "Refactored part of the hotpath to increase the maintainablitity of the codebase while maintaining performance"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
+      "institution": "Cegep Andre Laurendeau",
+      "url": "https://claurendeau.qc.ca/",
       "area": "Information Technology",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor?",
       "startDate": "2011-06-01",
       "endDate": "2014-01-01"
     }
@@ -88,22 +88,43 @@
     {
       "language": "English",
       "fluency": "very good"
+    },
+    {
+      "language": "French",
+      "fluency": "maternal tongue"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
+      "name": "Technology",
       "keywords": [
-        "Ferrets",
-        "Unicorns"
+        "VR",
+        "programming",
+        "input schemas"
+      ]
+    },
+    {
+      "name": "Art",
+      "keywords": [
+        "sculpture",
+        "drawing" 
+      ]
+    },
+    {
+      "name": "Programming",
+      "keywords": [
+        "Rustlang"
+      ]
+    },
+    {
+      "name": "Mangas",
+      "keywords": [
+        "Soul Eater",
+        "20th Century Boys"
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
+  "references": [ 
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
