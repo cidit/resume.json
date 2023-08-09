@@ -55,14 +55,13 @@
       "name": "Frontend Development",
       "level": "Expert",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "Typescript",
-        "Node.js",
-        "React.js",
-        "Redux.js",
-        "RxJs"
+        "HTML / CSS",
+        "Javascript / Typescript",
+        "React",
+        "Node",
+        "Redux",
+        "RxJs",
+        "Angular"
       ]
     },
     {
@@ -74,7 +73,9 @@
         "Python",
         "Rust",
         "C#",
-        "SQL"
+        "SQL",
+        "AWS Lambda",
+        "Node"
       ]
     },
     {
@@ -85,7 +86,7 @@
         "SQLite",
         "Postgress",
         "Mongo",
-        "Dynamodb"
+        "AWS Dynamodb"
       ]
     },
     {
@@ -147,6 +148,7 @@
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "elegant"
   }
 }
