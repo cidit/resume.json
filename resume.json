@@ -8,19 +8,18 @@
     "summary": "Hi. I go by Cidit on the internet. I'm an open source enthousiast and like to scratch my brain with both cognitive and creative problems.",
     "location": {
       "city": "Montreal",
-      "countryCode": "CAN", 
+      "countryCode": "CAN",
       "region": "Quebec"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": "https://www.google.com"
+        "network": "GitHub",
+        "username": "cidit",
+        "url": "https://www.github.com/cidit"
       },
       {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.example.com/dandymusicnl"
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/felix-st-gelais-7a1561287"
       }
     ]
   },
@@ -36,7 +35,9 @@
         "Implemented a visual help tool using webrtc to help customers having issues with the product",
         "Implemented more than a third of the UI elements in the final product",
         "Refactored part of the hotpath to increase the maintainablitity of the codebase while maintaining performance"
-      ]
+      ],
+      "startDate": "2021",
+      "endDate": "2023"
     }
   ],
   "education": [
@@ -44,13 +45,15 @@
       "institution": "Cegep Andre Laurendeau",
       "url": "https://claurendeau.qc.ca/",
       "area": "Information Technology",
-      "studyType": "Diploma of College Studies (DCS)"
+      "studyType": "Diploma of College Studies (DCS)",
+      "startDate": "2018-08",
+      "endDate": "2022-04"
     }
   ],
   "skills": [
     {
       "name": "Frontend Development",
-      "level": "Master",
+      "level": "Expert",
       "keywords": [
         "HTML",
         "CSS",
@@ -60,6 +63,43 @@
         "React.js",
         "Redux.js",
         "RxJs"
+      ]
+    },
+    {
+      "name": "Backend Development",
+      "level": "Expert",
+      "keywords": [
+        "Java",
+        "GoLang",
+        "Python",
+        "Rust",
+        "C#",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Database Management",
+      "level": "Expert",
+      "keywords": [
+        "MySQL",
+        "SQLite",
+        "Postgress",
+        "Mongo",
+        "Dynamodb"
+      ]
+    },
+    {
+      "name": "Game Development",
+      "level": "Adept",
+      "keywords": [
+        "Unity", "C#"
+      ]
+    },
+    {
+      "name": "Operating Systems",
+      "level": "Expert",
+      "keywords": [
+        "linux", "Windows10+"
       ]
     }
   ],
@@ -86,7 +126,7 @@
       "name": "Art",
       "keywords": [
         "sculpture",
-        "drawing" 
+        "drawing"
       ]
     },
     {
@@ -103,8 +143,7 @@
       ]
     }
   ],
-  "references": [ 
-  ],
+  "references": [],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
